@@ -9,6 +9,6 @@ When hooking up Arduino boards that have SDA and SCL pins labelled, used this pi
 
 ![Hookup Diagram](images/DueUnoI2C.png)  
 
-As per diagram, both boards use the same ground. The Mega/Due SDA pin connect to the Uno pin 4, while the SDL pin connects to Uno pin 5. Both lines have a 4.7k pullup resistor.  
+As per diagram, both boards use the same ground. The Mega/Due SDA pin connects to the Uno pin 4, while the SDL pin connects to Uno pin 5. Both lines have a 4.7k pullup resistor.  
 
 Sketches can now be uploaded for each board to act as a master or slave, using the Wire library.  
