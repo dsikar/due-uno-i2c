@@ -1,4 +1,4 @@
-Due to Uno I2C connection
+Due to Uno I<sup>2</sup>C connection
 ==============
 
 This document describes how to connect an Arduino Due to an Arduino Uno for further I<sup>2</sup>C protocol communication.  
