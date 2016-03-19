@@ -5,7 +5,7 @@ This document describes how to connect an Arduino Due to an Arduino Uno for furt
 
 Since there was no Due in Fritzing I used a Mega which presents the same SDA and SCL pins.  
 
-When hooking up Arduino boards that have SDA and SCL pins labelled, used this pins for I<sup>2</sup>C, otherwise, when no such labels exist, use pins 4 and 5.  
+When hooking up Arduino boards that have SDA and SCL pins labelled, used these pins for I<sup>2</sup>C, otherwise, when no such labels exist, use pins 4 and 5.  
 
 ![Hookup Diagram](images/DueUnoI2C.png)  
 
